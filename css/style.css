@@ -1,0 +1,21 @@
+.carousel-inner img {
+  width: 200px;
+  height: 200px;
+}
+
+#carouselExampleRide img {
+  width: 400px;
+  height: 775px;
+  padding-top: 36px;
+  color: red;
+}
+#col-md-8 img {
+  width: 400px;
+  height: 775px;
+  padding-top: 36px;
+}
+.carousel-item-slider img {
+  width: 400px;
+  height: 775px;
+  padding-top: 36px;
+}
